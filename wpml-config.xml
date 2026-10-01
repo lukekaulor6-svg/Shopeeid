@@ -1,0 +1,35 @@
+<wpml-config>
+    <admin-texts>
+        <!-- For _wcpr_nkt_setting -->
+        <key name="_wcpr_nkt_setting">
+            <key name="photo">
+                <key name="upload_images_requirement" />
+                <key name="upload_button_text" />
+                <key name="review_title_placeholder" />
+                <key name="thank_you_message" />
+                <key name="thank_you_message_coupon" />
+                <key name="gdpr_message" />
+                <key name="helpful_button_title" />
+            </key>
+            <key name="followup_email">
+                <key name="subject" />
+                <key name="content" />
+                <key name="heading" />
+                <key name="loop_email_content">
+                    <key name="email_content" />
+                </key>
+            </key>
+        </key>
+        <!-- For _wcpr_nkt_setting_coupons -->
+        <key name="_wcpr_nkt_setting_coupons">
+            <key name="form_title" />
+            <key name="email">
+                <key name="coupon_discount">
+                    <key name="subject" />
+                    <key name="heading" />
+                    <key name="content" />
+                </key>
+            </key>
+        </key>
+    </admin-texts>
+</wpml-config>
